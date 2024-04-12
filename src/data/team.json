@@ -1,0 +1,44 @@
+[
+  {
+    "href": "#",
+    "name": "hero",
+    "roles": ["leadDev"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "8055",
+    "roles": ["leadDesigner"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "jplie",
+    "roles": ["moe"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "itsv1eds",
+    "roles": ["founder"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "R4IN80W",
+    "roles": ["designer"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "Nightly",
+    "roles": ["themer"],
+    "img": "/images/team/r4in80w.jpg"
+  },
+  {
+    "href": "#",
+    "name": "undeffine",
+    "roles": ["python"],
+    "img": "/images/team/r4in80w.jpg"
+  }
+]
